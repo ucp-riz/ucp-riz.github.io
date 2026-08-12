@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Profile placeholder for Muhammad Rizwan</title>
+  <desc id="desc">Circular placeholder with the initials MR. Replace this file with a professional profile photo.</desc>
+  <rect width="400" height="400" rx="200" fill="#e8eef8"/>
+  <circle cx="200" cy="200" r="170" fill="#0b3b70"/>
+  <text x="200" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="120" font-weight="700" fill="#ffffff">MR</text>
+</svg>
